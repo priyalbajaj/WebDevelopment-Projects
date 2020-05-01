@@ -1,0 +1,35 @@
+p{
+	/*content- Width and Height*/
+	width: 200px;
+	/*	can also be written in percentages of the page
+	for eg:
+	width: 50%;	*/
+	height: 20px;
+	/*Border*/
+	border: 2px solid blue;
+	/*for specific borders, we can have:
+	border-top: 10px;
+	border-bottom: 10px; 
+	etc;
+	*/
+	/*Padding-- 
+ 	space between the text and border
+	*/
+	padding: 20px;/*in this case, the padding is equalon all four sides*/
+	/*for specific paddings, we can have:
+	padding-top: 10px;
+	padding-left: 10px; 
+	etc;
+	*/
+	/*Margin*/
+	/*margin: 20px 300px 40px 500px;
+	provides space between two elements
+	order--- top right bottom left*/
+	/*
+	-----------to have the element in the centre------------*/
+		margin: 0 auto 0 auto;
+		/*to make this shorter: use 
+		margin: 0 auto;
+		-----this makes, top and bottom 0 and left nad right auto;
+		*/
+}
