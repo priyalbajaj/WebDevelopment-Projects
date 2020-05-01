@@ -1,0 +1,63 @@
+/* 
+FONT-FAMILY
+Describes the font style of the text
+*/
+p{
+	font-family: Arial;
+}
+h1
+{
+	font-family: Calibri;
+}
+/*
+FONT-SIZE
+Describes the size of the text
+NOTE: 1em = 16px ;
+*/
+h1{
+	font-size: 60px;
+}
+span{
+	font-size: 2.0em;
+}
+p{
+	font-size: 20px;
+}
+/*
+FONT-WEIGHT
+RANGES FROM 100-800
+DESCRIBES THE TYPEOF FONT BOLD, ITALICS ETC.
+*/
+span{
+	font-weight: bold;
+}
+/* 
+LINE-HEIGHT
+DEFINES LINE SPACING
+THE NUMBER YOU GIVE ALWAYS GETS MULTIPIED BY THE ORIGINAL LINE SPACE
+*/
+p{
+	line-height: 2;
+}
+/*
+TEXT-ALIGN
+DEFINES THE ALIGNMENT OF A TEXT
+*/
+h1{
+	text-align: center;
+}
+/*
+TEXT DECORATION
+UNDERLINE, STRIKETHROUGH==linethrough ETC;
+*/
+span{
+	text-decoration: line-
+
+	through;
+}
+h1{
+	text-decoration: underline;
+}
+
+
+
